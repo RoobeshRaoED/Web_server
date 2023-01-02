@@ -59,7 +59,7 @@ httpd.serve_forever()
 
 [Roobesh Rao.E.D 22008573 simple webserver.pdf](https://github.com/RoobeshRaoED/Web_server/files/10330103/Roobesh.Rao.E.D.22008573.simple.webserver.pdf)
 
-![r](op.png)
+![r](Roobesh%20Rao.E.D%2022008573%20simplewebserver.png)
 
 
 # RESULT:
