@@ -27,6 +27,7 @@ Serving the HTML pages.
 Testing the webserver
 
 # PROGRAM:
+```
 from http.server import HTTPServer, BaseHTTPRequestHandler
 content = """
 <html>
@@ -51,12 +52,13 @@ class HelloHandler(BaseHTTPRequestHandler):
 
 server_address = ('',80)
 httpd = HTTPServer(server_address, HelloHandler)
-httpd.serve_forever()         
+httpd.serve_forever()
+```
 
 # OUTPUT:
 
 
-[Roobesh Rao.E.D 22008573 simple webserver.pdf](https://github.com/RoobeshRaoED/Web_server/files/10329971/Roobesh.Rao.E.D.22008573.simple.webserver.pdf)
+![ri](op.png)
 
 
 # RESULT:
